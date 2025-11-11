@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Finnestkhalid
+- 👋 Hi, I’m @Finnest ken
 - 👀 I’m interested in ...software development
 - 🌱 I’m currently learning @moringa school
 - 💞️ I’m looking to collaborate on solving problems
