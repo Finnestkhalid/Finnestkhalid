@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...software development
 - 🌱 I’m currently learning @moringa school
 - 💞️ I’m looking to collaborate on solving problems
-- 📫 How to reach me ...waweruken80@gmwail.com
+- 📫 How to reach me ...waweruken80@gmail.com
 
 <!---
 Finnestkhalid/Finnestkhalid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
