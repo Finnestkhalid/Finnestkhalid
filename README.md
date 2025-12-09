@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Finnest ken
 - 👀 I’m interested in ...software development
 - 🌱 I’m currently learning @moringa school
-- 💞️ I’m looking to collaborate on solving problems
+- 💞️ I’m looking forward on collaboration with problem solving 
 - 📫 How to reach me ...waweruken80@gmail.com
 
 <!---
